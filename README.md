@@ -1,3 +1,21 @@
+# React To-Do List App
+
+A simple **React To-Do List** application inspired by Microsoft To-Do, built to learn React fundamentals including **components**, **state management**, **event handling**.
+
+## Features
+
+- Add new tasks
+- Delete tasks
+- Clean Microsoft To-Do–inspired UI
+- Responsive and minimal design
+- Styled with modern CSS
+
+## Tech Stack
+
+- **React** (functional components, hooks)
+- **JavaScript** (ES6+)
+- **CSS** (custom styling)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
